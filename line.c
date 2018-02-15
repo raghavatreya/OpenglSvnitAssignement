@@ -1,5 +1,5 @@
-// DDA ALGO………
-// u13co022...
+// DDA ALGOâ€¦â€¦â€¦
+// u13co051
 #include <stdio.h>
 #include <math.h>
 #include <glut.h> or <GL/glut.h>
