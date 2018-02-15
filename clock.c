@@ -1,5 +1,5 @@
 //clock 
-//u13co022
+//u13co051
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
